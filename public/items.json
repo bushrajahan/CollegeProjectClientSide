@@ -1,0 +1,949 @@
+[
+  {
+      "name": "Dell Inspiron Laptop",
+      "price": 1099.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/hgSLnnb/download-1.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-02-28"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "15.6 inches",
+        "processor": "Intel Core i5",
+        "RAM": "8GB",
+        "storage": "256GB SSD",
+        "graphics": "Integrated Intel UHD Graphics",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "price": 1499.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/M59fPNm/download-2.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-15"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "13.3 inches",
+        "processor": "Apple M1 Chip",
+        "RAM": "8GB",
+        "storage": "512GB SSD",
+        "graphics": "Apple M1 GPU",
+        "operating_system": "macOS"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Book",
+      "price": 899.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/TKPCDB5/download-3.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-02-28"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "13.3 inches",
+        "processor": "Intel Core i7",
+        "RAM": "16GB",
+        "storage": "512GB SSD",
+        "graphics": "Intel Iris Xe Graphics",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "Sony VAIO Laptop",
+      "price": 1199.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/gyKMTjX/download-4.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-03-10"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "14 inches",
+        "processor": "Intel Core i7",
+        "RAM": "16GB",
+        "storage": "1TB SSD",
+        "graphics": "NVIDIA GeForce GTX 1650 Ti",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "HP Spectre x360",
+      "price": 1299.99,
+      "brand": "HP",
+      "img": "https://i.ibb.co/PYPc7Yb/download-5.jpg",
+      "offer": {
+        "discount_percentage": 7,
+        "valid_until": "2024-02-25"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "13.3 inches",
+        "processor": "Intel Core i7",
+        "RAM": "16GB",
+        "storage": "512GB SSD",
+        "graphics": "NVIDIA GeForce MX330",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1099.99,
+      "brand": "Lenovo",
+      "img": "https://i.ibb.co/f8mnwJR/download-6.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-03-05"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "14 inches",
+        "processor": "Intel Core i5",
+        "RAM": "8GB",
+        "storage": "256GB SSD",
+        "graphics": "Integrated Intel UHD Graphics",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1299.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/FJJhqm7/download-7.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "13.4 inches",
+        "processor": "Intel Core i7",
+        "RAM": "16GB",
+        "storage": "512GB SSD",
+        "graphics": "Intel Iris Xe Graphics",
+        "operating_system": "Windows 10"
+      }
+    },
+    {
+      "name": "Apple MacBook Air",
+      "price": 1099.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/tML280N/download-8.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "laptop",
+      "details": {
+        "screen_size": "13.3 inches",
+        "processor": "Apple M1 Chip",
+        "RAM": "8GB",
+        "storage": "256GB SSD",
+        "graphics": "Apple M1 GPU",
+        "operating_system": "macOS"
+      }
+    },
+    {
+      "name": "Dell Mobile Pro",
+      "price": 699.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/LRps629/images-1.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.7 inches",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB",
+        "storage": "128GB",
+        "camera": "Triple 64MP+12MP+12MP",
+        "operating_system": "Android 11"
+      }
+    },
+    {
+      "name": "Dell Mobile Plus",
+      "price": 799.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/HDnDLH6/images-6.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.7 inches",
+        "processor": "Snapdragon 865",
+        "RAM": "8GB",
+        "storage": "256GB",
+        "camera": "Triple 48MP+8MP+2MP",
+        "operating_system": "Android 10",
+        "description": "The Dell Mobile Plus is a powerful smartphone with a large display, impressive camera setup, and ample storage capacity, making it a versatile choice for multimedia and productivity."
+      }
+    },
+    {
+      "name": "iPhone SE",
+      "price": 699.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/PDbK3QX/images.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "4.7 inches",
+        "processor": "A13 Bionic",
+        "RAM": "3GB",
+        "storage": "64GB",
+        "camera": "Single 12MP",
+        "operating_system": "iOS 15",
+        "description": "The iPhone SE combines compact design with powerful performance. Featuring the A13 Bionic chip, it offers a seamless iOS experience in a smaller form factor, making it an ideal choice for those who prefer a more compact smartphone."
+      }
+    },
+    {
+      "name": "Samsung Galaxy Note 20",
+      "price": 1099.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/XSzR6q5/smart.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.7 inches",
+        "processor": "Exynos 990 (Global) / Snapdragon 865+ (USA)",
+        "RAM": "8GB",
+        "storage": "256GB",
+        "camera": "Triple 12MP+64MP+12MP",
+        "operating_system": "Android 10, One UI 2.5",
+        "description": "The Samsung Galaxy Note 20 is a flagship device with a large display, S Pen functionality, and a powerful camera system, making it a great choice for productivity and creativity on the go."
+      }
+    },
+    {
+      "name": "Sony Xperia 5 III",
+      "price": 999.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/2kpNZKZ/smartb.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-10"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.1 inches",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB",
+        "storage": "128GB",
+        "camera": "Triple 12MP+12MP+12MP",
+        "operating_system": "Android 11",
+        "description": "The Sony Xperia 5 III is a compact yet powerful smartphone with top-notch camera capabilities, a vibrant display, and high-end specifications, making it an excellent choice for multimedia enthusiasts and mobile photographers."
+      }
+    },
+    {
+      "name": "Dell Mobile Plus",
+      "price": 799.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/HDnDLH6/images-6.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.7 inches",
+        "processor": "Snapdragon 865",
+        "RAM": "8GB",
+        "storage": "256GB",
+        "camera": "Triple 48MP+8MP+2MP",
+        "operating_system": "Android 10",
+        "description": "The Dell Mobile Plus is a powerful smartphone with a large display, impressive camera setup, and ample storage capacity, making it a versatile choice for multimedia and productivity."
+      }
+    },
+    {
+      "name": "iPhone SE",
+      "price": 699.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/PDbK3QX/images.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "4.7 inches",
+        "processor": "A13 Bionic",
+        "RAM": "3GB",
+        "storage": "64GB",
+        "camera": "Single 12MP",
+        "operating_system": "iOS 15",
+        "description": "The iPhone SE combines compact design with powerful performance. Featuring the A13 Bionic chip, it offers a seamless iOS experience in a smaller form factor, making it an ideal choice for those who prefer a more compact smartphone."
+      }
+    },
+    {
+      "name": "Samsung Galaxy Note 20",
+      "price": 1099.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/XSzR6q5/smart.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.7 inches",
+        "processor": "Exynos 990 (Global) / Snapdragon 865+ (USA)",
+        "RAM": "8GB",
+        "storage": "256GB",
+        "camera": "Triple 12MP+64MP+12MP",
+        "operating_system": "Android 10, One UI 2.5",
+        "description": "The Samsung Galaxy Note 20 is a flagship device with a large display, S Pen functionality, and a powerful camera system, making it a great choice for productivity and creativity on the go."
+      }
+    },
+    {
+      "name": "Sony Xperia 5 III",
+      "price": 999.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/2kpNZKZ/smartb.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-10"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.1 inches",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB",
+        "storage": "128GB",
+        "camera": "Triple 12MP+12MP+12MP",
+        "operating_system": "Android 11",
+        "description": "The Sony Xperia 5 III is a compact yet powerful smartphone with top-notch camera capabilities, a vibrant display, and high-end specifications, making it an excellent choice for multimedia enthusiasts and mobile photographers."
+      }
+    },
+    {
+      "name": "Samsung TV",
+      "price": 79.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/D1rpxRQ/download-10.jpg",
+      "offer": {
+        "discount_percentage": 20,
+        "valid_until": "2024-02-28"
+      },
+      "type": "TV",
+      "details": {
+        "screen_size": "32 inches",
+        "resolution": "HD",
+        "smart_features": true,
+        "description": "The Samsung TV is a 32-inch HD television featuring smart capabilities for online streaming and a clear, vibrant display. With a 20% discount, it's an excellent choice for an immersive viewing experience."
+      }
+    },
+      {
+      "name": "Coffee Maker",
+      "price": 49.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/FJ90BhP/download-37.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-10"
+      },
+      "type": "accessory",
+      "details": {
+        "description": "The Sony Coffee Maker is a stylish and efficient accessory for coffee enthusiasts. With a 15% discount, it's a perfect addition to your kitchen, ensuring you start your day with a fresh cup of coffee."
+      }
+    },
+    {
+      "name": "Headphones",
+      "price": 129.99,
+      "brand": "HP",
+      "img": "https://i.ibb.co/M2pGCkr/download-14.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-02-25"
+      },
+      "type": "accessory",
+      "details": {
+        "description": "HP Headphones deliver high-quality audio and comfort for an immersive listening experience. Take advantage of the 8% discount and enjoy your favorite music with superior sound quality."
+      }
+    },
+    {
+      "name": "Sunglasses",
+      "price": 59.99,
+      "brand": "Lenovo",
+      "img": "https://i.ibb.co/KKWtKHk/images-11.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-03-05"
+      },
+      "type": "accessory",
+      "details": {
+        "description": "Lenovo Sunglasses combine style and protection, making them a must-have accessory. With a 12% discount, elevate your fashion and shield your eyes from the sun in a trendy way."
+      }
+    },
+    {
+      "name": "Dell Venue 11 Pro",
+      "price": 499.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/k2VYn52/download-17.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.8 inches",
+        "processor": "Intel Core i5",
+        "RAM": "4GB",
+        "storage": "128GB SSD",
+        "operating_system": "Windows 10",
+        "description": "The Dell Venue 11 Pro is a versatile tablet featuring a large display, powerful performance, and ample storage. With a 12% discount, it's a great choice for both work and entertainment."
+      }
+    },
+    {
+      "name": "iPad Air",
+      "price": 699.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/FhB40v4/download-18.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-15"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.9 inches",
+        "processor": "A14 Bionic",
+        "RAM": "4GB",
+        "storage": "64GB",
+        "operating_system": "iPadOS 15",
+        "description": "The iPad Air by Apple offers a powerful and sleek tablet experience. With a 8% discount, enjoy a large Retina display, high-performance A14 Bionic chip, and the versatility of iPadOS 15."
+      }
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "price": 799.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/WtCkPQ6/download-19.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "11 inches",
+        "processor": "Snapdragon 865+",
+        "RAM": "6GB",
+        "storage": "128GB",
+        "operating_system": "Android 10, One UI 2.5",
+        "description": "The Samsung Galaxy Tab S7 offers a large 11-inch display, powerful performance with Snapdragon 865+, and versatile features with Android 10 and One UI 2.5. With a 15% discount, it's an ideal choice for productivity and entertainment on the go."
+      }
+    },
+    {
+      "name": "Sony Xperia Z4 Tablet",
+      "price": 899.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/drqD4P5/download-20.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-03-10"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Snapdragon 810",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "operating_system": "Android 5.0",
+        "description": "The Sony Xperia Z4 Tablet features a 10.1-inch display, Snapdragon 810 processor, and 3GB RAM for a smooth and efficient tablet experience. With a 10% discount, it's a sleek and powerful option for both work and entertainment."
+      }
+    },
+    {
+      "name": "HP ElitePad 1000 G2",
+      "price": 599.99,
+      "brand": "HP",
+      "img": "https://i.ibb.co/NSMM8xS/download-21.jpg",
+      "offer": {
+        "discount_percentage": 7,
+        "valid_until": "2024-02-25"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Intel Atom Z3795",
+        "RAM": "4GB",
+        "storage": "128GB eMMC",
+        "operating_system": "Windows 8.1 Pro",
+        "description": "The HP ElitePad 1000 G2 is a business-focused tablet with a 10.1-inch display, Intel Atom Z3795 processor, and 4GB RAM. With a 7% discount, it's a reliable choice for professionals on the go."
+      }
+    },
+    {
+      "name": "Lenovo Tab P11 Pro",
+      "price": 699.99,
+      "brand": "Lenovo",
+      "img": "https://i.ibb.co/0jBXz6y/images-12.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-03-05"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "11.5 inches",
+        "processor": "Snapdragon 730G",
+        "RAM": "6GB",
+        "storage": "128GB",
+        "operating_system": "Android 10",
+        "description": "The Lenovo Tab P11 Pro features an 11.5-inch display, Snapdragon 730G processor, and 6GB RAM for a premium tablet experience. With a 12% discount, it's a great option for multimedia and productivity."
+      }
+    },
+    {
+      "name": "Dell Venue 8",
+      "price": 349.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/zHQF1SS/images-13.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "8 inches",
+        "processor": "Intel Atom Z3480",
+        "RAM": "2GB",
+        "storage": "16GB",
+        "operating_system": "Android 4.4",
+        "description": "The Dell Venue 8 is a compact 8-inch tablet featuring an Intel Atom Z3480 processor and 2GB RAM for basic tablet needs. With a 10% discount, it's a budget-friendly option for casual use."
+      }
+    },
+    {
+      "name": "iPad Mini",
+      "price": 499.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/BcgDShH/images-14.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "7.9 inches",
+        "processor": "A15 Bionic",
+        "RAM": "4GB",
+        "storage": "64GB",
+        "operating_system": "iPadOS 15",
+        "description": "The iPad Mini by Apple offers a compact 7.9-inch display, A15 Bionic chip, and 4GB RAM for a powerful and portable tablet experience. With a 15% discount, it's a versatile choice for on-the-go productivity and entertainment."
+      }
+    },
+    {
+      "name": "Samsung Galaxy Tab A7",
+      "price": 299.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/TKMkHZt/images-15.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.4 inches",
+        "processor": "Snapdragon 662",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "operating_system": "Android 10",
+        "description": "The Samsung Galaxy Tab A7 features a 10.4-inch display, Snapdragon 662 processor, and 3GB RAM for a versatile and budget-friendly tablet experience. With a 10% discount, it's an ideal choice for entertainment and productivity."
+      }
+    },
+    {
+      "name": "Sony Xperia Tablet S",
+      "price": 599.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/WtCkPQ6/download-19.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-10"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "9.4 inches",
+        "processor": "NVIDIA Tegra 3",
+        "RAM": "1GB",
+        "storage": "16GB",
+        "operating_system": "Android 4.0",
+        "description": "The Sony Xperia Tablet S offers a 9.4-inch display, NVIDIA Tegra 3 processor, and 1GB RAM for a sleek and compact tablet experience. With an 8% discount, it's a stylish and functional option for various tasks."
+      }
+    },
+    {
+      "name": "Dell SunShades",
+      "price": 99.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/RyG0jCq/download-22.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "accessory",
+      "details": {
+        "type": "Sunglasses",
+        "frame_material": "Plastic",
+        "lens_material": "Polycarbonate",
+        "uv_protection": true,
+        "description": "Dell SunShades are stylish sunglasses with a plastic frame, polycarbonate lenses, and UV protection. With a 10% discount, stay fashionable and protect your eyes from harmful sun rays."
+      }
+    },
+    {
+      "name": "iPhone 12",
+      "price": 149.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/PDbK3QX/images.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-15"
+      },
+      "type": "smartphone",
+      "details": {
+        "display_size": "6.1 inches",
+        "processor": "A14 Bionic",
+        "RAM": "4GB",
+        "storage": "128GB",
+        "camera": "Dual 12MP system",
+        "operating_system": "iOS 15",
+        "description": "The iPhone 12 by Apple features a 6.1-inch display, A14 Bionic chip, and a dual 12MP camera system for stunning photos. With an 8% discount, it's a powerful and stylish smartphone choice."
+      }
+    },
+    {
+      "name": "Samsung SunStyle",
+      "price": 79.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/SdYnM3P/download-23.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-02-28"
+      },
+      "type": "Earphone",
+      "details": {
+        "type": "In-Ear",
+        "connectivity": "Bluetooth",
+        "battery_life": "Up to 8 hours",
+        "description": "Samsung SunStyle Earphones offer a comfortable in-ear design with Bluetooth connectivity and up to 8 hours of battery life. With a 15% discount, enjoy high-quality audio on the go."
+      }
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "price": 799.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/WtCkPQ6/download-19.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "11 inches",
+        "processor": "Snapdragon 865+",
+        "RAM": "6GB",
+        "storage": "128GB",
+        "operating_system": "Android 10, One UI 2.5",
+        "description": "The Samsung Galaxy Tab S7 offers a large 11-inch display, powerful performance with Snapdragon 865+, and versatile features with Android 10 and One UI 2.5. With a 15% discount, it's an ideal choice for productivity and entertainment on the go."
+      }
+    },
+    {
+      "name": "Sony Xperia Z4 Tablet",
+      "price": 899.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/drqD4P5/download-20.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-03-10"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Snapdragon 810",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "operating_system": "Android 5.0",
+        "description": "The Sony Xperia Z4 Tablet features a 10.1-inch display, Snapdragon 810 processor, and 3GB RAM for a smooth and efficient tablet experience. With a 10% discount, it's a sleek and powerful option for both work and entertainment."
+      }
+    },
+    {
+      "name": "HP ElitePad 1000 G2",
+      "price": 599.99,
+      "brand": "HP",
+      "img": "https://i.ibb.co/NSMM8xS/download-21.jpg",
+      "offer": {
+        "discount_percentage": 7,
+        "valid_until": "2024-02-25"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Intel Atom Z3795",
+        "RAM": "4GB",
+        "storage": "128GB eMMC",
+        "operating_system": "Windows 8.1 Pro",
+        "description": "The HP ElitePad 1000 G2 is a business-focused tablet with a 10.1-inch display, Intel Atom Z3795 processor, and 4GB RAM. With a 7% discount, it's a reliable choice for professionals on the go."
+      }
+    },
+    {
+      "name": "Lenovo Tab P11 Pro",
+      "price": 699.99,
+      "brand": "Lenovo",
+      "img": "https://i.ibb.co/0jBXz6y/images-12.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-03-05"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "11.5 inches",
+        "processor": "Snapdragon 730G",
+        "RAM": "6GB",
+        "storage": "128GB",
+        "operating_system": "Android 10",
+        "description": "The Lenovo Tab P11 Pro features an 11.5-inch display, Snapdragon 730G processor, and 6GB RAM for a premium tablet experience. With a 12% discount, it's a great option for multimedia and productivity."
+      }
+    },
+    {
+      "name": "Dell Venue 8",
+      "price": 349.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/zHQF1SS/images-13.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "8 inches",
+        "processor": "Intel Atom Z3480",
+        "RAM": "2GB",
+        "storage": "16GB",
+        "operating_system": "Android 4.4",
+        "description": "The Dell Venue 8 is a compact 8-inch tablet featuring an Intel Atom Z3480 processor and 2GB RAM for basic tablet needs. With a 10% discount, it's a budget-friendly option for casual use."
+      }
+    },
+    {
+      "name": "iPad Mini",
+      "price": 499.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/BcgDShH/images-14.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "tablet",
+      "details": {
+        "display_size": "7.9 inches",
+        "processor": "A15 Bionic",
+        "RAM": "4GB",
+        "storage": "64GB",
+        "operating_system": "iPadOS 15",
+        "description": "The iPad Mini by Apple offers a compact 7.9-inch display, A15 Bionic chip, and 4GB RAM for a powerful and portable tablet experience. With a 15% discount, it's a versatile choice for on-the-go productivity and entertainment."
+      }
+    },
+    {
+      "name": "iStyle Shades",
+      "price": 119.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/D1rpxRQ/download-10.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "TV",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Intel Atom Z3795",
+        "RAM": "4GB",
+        "storage": "128GB eMMC",
+        "operating_system": "Windows 8.1 Pro",
+        "description": "The iStyle Shades TV features a 10.1-inch display, Intel Atom Z3795 processor, and 4GB RAM. With a 15% discount, it's a versatile choice for your entertainment needs."
+      }
+    },
+    {
+      "name": "Samsung SunElite",
+      "price": 99.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/cbtgZtj/images-9.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "TV",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Intel Atom Z3795",
+        "RAM": "4GB",
+        "storage": "128GB eMMC",
+        "operating_system": "Windows 8.1 Pro",
+        "description": "The Samsung SunElite TV features a 10.1-inch display, Intel Atom Z3795 processor, and 4GB RAM. With a 10% discount, enjoy a sleek design and powerful performance for your viewing pleasure."
+      }
+    },
+    {
+      "name": "Sony ShadePro",
+      "price": 129.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/RvzZRsC/download-12.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-10"
+      },
+      "type": "TV",
+      "details": {
+        "display_size": "10.1 inches",
+        "processor": "Intel Atom Z3795",
+        "RAM": "4GB",
+        "storage": "128GB eMMC",
+        "operating_system": "Windows 8.1 Pro",
+        "description": "The Sony ShadePro TV features a 10.1-inch display, Intel Atom Z3795 processor, and 4GB RAM. With an 8% discount, it delivers a stunning visual experience and reliable performance."
+      }
+    },
+    {
+      "name": "Dell SunGuard",
+      "price": 79.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/yBcFyr9/download-28.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Dell SunGuard watch combines style and functionality. With a 10% discount, this watch offers a sleek design and reliable performance. Grab it before the offer expires!"
+      }
+    },
+    {
+      "name": "Apple SunRay",
+      "price": 129.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/YkTbVX6/download-29.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-15"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Apple SunRay watch brings sophistication to your wrist. With an 8% discount, experience the perfect blend of style and technology. Limited time offer, don't miss out!"
+      }
+    },
+    {
+      "name": "Samsung SunStyle",
+      "price": 99.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/s2mm3tk/download-30.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-02-28"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Samsung SunStyle watch offers a balance of elegance and functionality. Enjoy a 15% discount on this stylish timepiece. Limited stock available, grab yours now!"
+      }
+    },
+    {
+      "name": "Sony ShadeMaster",
+      "price": 119.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/8zdPqCS/download-31.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-03-10"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Sony ShadeMaster watch combines innovation and fashion. With a 10% discount, experience cutting-edge technology wrapped in a stylish design. Limited time offer, shop now!"
+      }
+    },
+    {
+      "name": "HP SunVision",
+      "price": 89.99,
+      "brand": "HP",
+      "img": "https://i.ibb.co/4mB1VNs/download-32.jpg",
+      "offer": {
+        "discount_percentage": 7,
+        "valid_until": "2024-02-25"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The HP SunVision watch is a blend of elegance and technology. Enjoy a 7% discount on this stylish timepiece. Limited stock available, grab yours before it's gone!"
+      }
+    },
+   {
+      "name": "Lenovo ShadeTech",
+      "price": 99.99,
+      "brand": "Lenovo",
+      "img": "https://i.ibb.co/hdX2MQ7/download-33.jpg",
+      "offer": {
+        "discount_percentage": 12,
+        "valid_until": "2024-03-05"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Lenovo ShadeTech watch brings a touch of sophistication with a 12% discount. This stylish timepiece is perfect for both casual and formal occasions. Limited stock available, shop now!"
+      }
+    },
+    {
+      "name": "Dell SunChic",
+      "price": 69.99,
+      "brand": "Dell",
+      "img": "https://i.ibb.co/jTz1hnP/download-34.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Dell SunChic watch offers a blend of fashion and functionality. With a 10% discount, it's an affordable and stylish accessory for any occasion. Limited time offer, grab yours now!"
+      }
+    },
+    {
+      "name": "Apple SunElegance",
+      "price": 139.95,
+      "brand": "Apple",
+      "img": "https://i.ibb.co/71MpZfd/download-35.jpg",
+      "offer": {
+        "discount_percentage": 15,
+        "valid_until": "2024-03-15"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Apple SunElegance watch radiates elegance and sophistication. With a 15% discount, indulge in luxury without breaking the bank. Limited stock available, order yours now!"
+      }
+    },
+    {
+      "name": "Samsung SunElite",
+      "price": 109.99,
+      "brand": "Samsung",
+      "img": "https://i.ibb.co/f2qHLKz/download-36.jpg",
+      "offer": {
+        "discount_percentage": 10,
+        "valid_until": "2024-02-28"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Samsung SunElite watch combines style and performance. With a 10% discount, this watch is a perfect accessory for those who appreciate quality and design. Limited stock, don't miss out!"
+      }
+    },
+    {
+      "name": "Sony ShadePro",
+      "price": 149.95,
+      "brand": "Sony",
+      "img": "https://i.ibb.co/sjj05r6/images-18.jpg",
+      "offer": {
+        "discount_percentage": 8,
+        "valid_until": "2024-03-10"
+      },
+      "type": "watch",
+      "details": {
+        "description": "The Sony ShadePro watch is a masterpiece of design and technology. With an 8% discount, experience innovation and style in one. Limited time offer, order yours now!"
+      }
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+  {
+    "brandName": "Dell",
+    "image": "https://i.ibb.co/VNgNbB2/download.png"
+  },
+  {
+    "brandName": "Apple",
+    "image": "https://i.ibb.co/H7xG0gb/download-38.jpg"
+  },
+  {
+    "brandName": "Samsung",
+    "image": "https://i.ibb.co/gdDkMbQ/download-39.jpg"
+  },
+  {
+    "brandName": "Sony",
+    "image": "https://i.ibb.co/YpzZGN5/download-1.png"
+  },
+  {
+    "brandName": "HP",
+    "image": "https://i.ibb.co/tQJH80D/download-2.png"
+  },
+  {
+    "brandName": "Lenovo",
+    "image": "https://i.ibb.co/mFVqhFD/download-3.png"
+  }
+]
